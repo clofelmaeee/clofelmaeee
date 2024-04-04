@@ -1,3 +1,3 @@
 - 👋 Hey there, Clofel here.
-- 👀 I am currently working on my portfolio, but my source code for this is currently private as it is still ongoing.
+- 👀 I am currently working on my portfolio.
 - 📫 You can reach me on my email, campuganmaec@gmail.com
