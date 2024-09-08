@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, it's Clofel<br>I am currently working as a full-time frontend dev, whilst;<br>Working on my personal website.<br>Fun fact, although I am doing all that, I am still a noob.
+Hi, it's Clofel. I am currently working as a full-time frontend dev, while working on my personal website, and doing other stuff like eating and sleeping. Fun fact about me is that, although I am doing all that coding, I am still a noob.
 
 
 ## 🌐 Socials:
