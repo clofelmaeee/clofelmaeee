@@ -1,7 +1,3 @@
-# 💫 About Me:
-Hi, it's Clofel. I am currently working as a full-time frontend dev, while working on my personal website, and doing other stuff like eating and sleeping. Fun fact about me is that, although I am doing all that coding, I am still a noob.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/clofelmaeee) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/clofel-mae-campugan/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@clofel.maeee) 
 
